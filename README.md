@@ -6,7 +6,7 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,react,graphql,photoshop&perline=16" alt="Tech Stack" /> </p>
 
 <h3 align="center">Currently learning:</h3>
-<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb&perline=16" alt="Currently learning" /> </p>
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,postman&perline=16" alt="Currently learning" /> </p>
 
 
 - 🗣 Languages: Polish (Native), English (C1)
