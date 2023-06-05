@@ -18,3 +18,5 @@
 - 🥰 In love with video/board games, fitness and continous learning  
 
 - ✨ Fun fact: <b>I know how to center a div</b> ✨
+
+- 📱 You can get in touch with me via [Linkedin](https://www.linkedin.com/in/patryk-puhacz-5b5b7a1aa/)
