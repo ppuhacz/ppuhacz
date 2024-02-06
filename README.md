@@ -5,7 +5,7 @@
 <h3 align="center">Skills:</h3>
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,sass,styledcomponents,javascript,typescript,react,angular,vue,svelte,jquery,graphql,photoshop,git&perline=16" alt="Tech Stack" /> </p>
 
-<h3 align="center">Currently learning:</h3>
+<h3 align="center">I've also used:</h3>
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,postman&perline=16" alt="Currently learning" /> </p>
 
 
