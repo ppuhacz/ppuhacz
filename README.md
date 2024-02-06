@@ -13,7 +13,7 @@
 
 - 📫 You can learn more about me at [my portfolio](https://ppuhacz.netlify.app/)
 
-- ⚡️ I'm currently working on a full-stack project [LeadLink CRM](https://github.com/ppuhacz/crm-mern)
+- ⚡️ I'm currently working at Optimo Development, Poland
 
 - 🥰 In love with video/board games, fitness and continous learning  
 
